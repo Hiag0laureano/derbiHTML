@@ -1,0 +1,33 @@
+.txt1 {
+  font-size: 20;
+  font-family: Verdana;
+  font-weight: bold;
+  color: white;
+}
+.txt2 {
+  font-size: 24;
+  font-family: Verdana;
+  font-weight: bold;
+  color: white;
+}
+.padrao1 {
+  background-color: green;
+}
+.padrao2 {
+  background-color: black;
+}
+.img1 {
+  width: 20%;
+  height: auto;
+}
+.img2 {
+  width: 90%;
+  height: auto;
+}
+.anima {
+  transition: ease (0.5s);
+}
+.anima:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
